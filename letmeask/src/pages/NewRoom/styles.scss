@@ -141,3 +141,12 @@
         }
     }
 }
+@media (max-height:600px){
+    #page-auth aside{
+               > img {
+                    height: 250px !important;
+                    width: 250px !important;
+                }  
+        }
+
+}
