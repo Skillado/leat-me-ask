@@ -60,7 +60,7 @@
             justify-content: space-between;
             align-items: center;
             margin-top: 16px;
-
+            gap:15px;
             .user-info{
                 display: flex;
                 align-items: center;
@@ -75,7 +75,11 @@
                     margin-left: 8px;
                     color:#29292e;
                     font-weight: 500;
-                    font-size:14px ;
+                    font-size:14px;
+
+                    text-overflow: ellipsis;
+                    overflow: hidden;
+                    white-space: nowrap;
                 }
             
             }
@@ -98,8 +102,101 @@
         }
 
         .question-list{
-            margin-top: 32px;
+            margin-top: 10%;
+            margin-bottom: 10%;
         }
+
+    }
+}
+
+@media (max-width:880px){
+    #page-room{        
+        main{
+            max-width: 600px !important;
+            
+            .room-title span{
+                font-size: 0.75rem !important
+            }
+
+            .room-title h1{
+                font-size: 1.25rem !important;
+            }
+        }
+
+        header{
+            .content{
+                display: flex;
+                gap:3rem;
+            }
+        }
+    }
+}
+
+@media (max-width:680px){
+    #page-room{
+        main{
+            max-width: 400px !important;
+        }
+        .form-footer{
+            
+            .user-info{
+                span{
+                    width: 195px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:480px){
+
+    #page-room{
+        main{
+            max-width: 80% !important;
+            .content{
+                display: flex;
+                gap:15px;
+            }
+        }
+        .form-footer{
+            
+            .user-info{
+                    width: 60%;
+            }
+        }
+    }
+}
+
+@media (max-width:370px){
+    #page-room{
+        main{
+            max-width: 80% !important;
+            
+            .room-title span{
+                font-size: .6rem !important
+            }
+
+            .room-title h1{
+                font-size: 1.25rem !important;
+            }
+
+            .content{
+                display: flex;
+                gap:15px;
+            }
+        }
+        main{
+
+            .form-footer{
+                gap:15px;
+                .user-info{
+                    span{
+                        width: 90px;
+                    }
+                }
+            }
+        }
+        
 
     }
 }

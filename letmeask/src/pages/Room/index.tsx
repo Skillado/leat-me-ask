@@ -92,12 +92,12 @@ export function Room(){
                     /> 
                     <div className="form-footer">
                     {
-                        user? (
-                            <div className="user-info">
+                        user? 
+                            (<div className="user-info">
                                 <img src={user.avatar} alt={user.name} />
                                 <span>{user.name}</span>
-                            </div>
-                        ):(
+                            </div>)
+                        :(
                             <span>Para enviar uma pergunta, <button>faça seu login</button>.</span>
                           )
                     }
@@ -114,7 +114,7 @@ export function Room(){
                                 isAnswered={question.isAnswered}
                                 isHighlighted={question.isHighlighted}
                             >
-                               {!question.isAnswered && (<>
+                               {question.isAnswered && (<>
                                 <button
                                     className={`like-button ${question.likeId ? 'liked': ''}`}
                                     type="button"

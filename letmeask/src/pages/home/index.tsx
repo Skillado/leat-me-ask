@@ -50,7 +50,7 @@ export function Home(){
             <aside>
                 <img src={illustratrionImg} alt="ilustração simbolizando perguntas e respostas" />
                 <strong>Crie salas de Q&amp;A ao-vivo</strong>
-                <p>Tire as dúvidas da sia audiência em tempo-real</p>
+                <p>Tire as dúvidas da sua audiência em tempo-real</p>
             </aside>
             <main>
                 <div className="main-content">
