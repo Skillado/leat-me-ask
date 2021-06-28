@@ -7,8 +7,7 @@
 
 ## ✨ Tecnologias
 <div align="center">
-<h1>Esse projeto foi desenvolvido com as seguintes tecnologias:</h1>
-  <br/><hr/>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
   <div align="center" style="display:flex;">
   - [React](https://reactjs.org)
   - [TypeScript](https://www.typescriptlang.org/)
