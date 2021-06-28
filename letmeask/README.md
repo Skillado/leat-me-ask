@@ -14,8 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 <div align="center">
-  <img alt="Letmeask" title="Letmeask" 
-  src="https://ibb.co/Qrdyfjb" />
+  <img title="Letmeask" 
+  src="https://i.ibb.co/J5QDKFB/Repository-Banner-leat-me-ask.jpg" alt="Repository-Banner-leat-me-ask" />
 </div>
 
 ## 🚀 Como executar
