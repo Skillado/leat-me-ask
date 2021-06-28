@@ -2,13 +2,20 @@
  <img alt="Letmeask" title="Letmeask"            src="https://raw.githubusercontent.com/jessicaidro/letmeask/88e5db1476241d7c126920b64d27ea89fb8a0e2a/src/assets/images/logo.svg" />
 </div>
 
-
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-diagrama">Diagrama</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 <br>
 
 ## ✨ Tecnologias
 
-<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
-- [React](https://reactjs.org)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-[React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
           
 <div align="center">
