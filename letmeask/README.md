@@ -1,4 +1,7 @@
-<img alt="Letmeask" align="center" title="Letmeask" src="https://raw.githubusercontent.com/jessicaidro/letmeask/88e5db1476241d7c126920b64d27ea89fb8a0e2a/src/assets/images/logo.svg" />
+<div align="center">
+<img alt="Letmeask" title="Letmeask" src="https://raw.githubusercontent.com/jessicaidro/letmeask/88e5db1476241d7c126920b64d27ea89fb8a0e2a/src/assets/images/logo.svg" />
+</div>
+
 
 <br>
 
