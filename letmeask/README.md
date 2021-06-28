@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div align="center">
   <img alt="Letmeask" title="Letmeask" 
-  src="https://drive.google.com/file/d/11FV3PtqBiJd_55_WxJcWUwlGSBR0SCLc/view?usp=sharing" />
+  src="https://drive.google.com/file/d/11FV3PtqBiJd_55_WxJcWUwlGSBR0SCLc/view" />
 </div>
 
 ## 🚀 Como executar
