@@ -15,7 +15,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--[React](https://reactjs.org)
+- [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
           
 <div align="center">
