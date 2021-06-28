@@ -8,8 +8,8 @@
 ## ✨ Tecnologias
 
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
-          - [React](https://reactjs.org)
-          - [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
           
 <div align="center">
   <img title="Letmeask" 
