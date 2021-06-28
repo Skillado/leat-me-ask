@@ -6,13 +6,11 @@
 <br>
 
 ## ✨ Tecnologias
-<div align="center">
+
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
-  <div align="center" style="display:flex;">
-  - [React](https://reactjs.org)
-  - [TypeScript](https://www.typescriptlang.org/)
-  </div>
-</div>
+          - [React](https://reactjs.org)
+          - [TypeScript](https://www.typescriptlang.org/)
+          
 <div align="center">
   <img title="Letmeask" 
   src="https://i.ibb.co/J5QDKFB/Repository-Banner-leat-me-ask.jpg" alt="Repository-Banner-leat-me-ask" />
