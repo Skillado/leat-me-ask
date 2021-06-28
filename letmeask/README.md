@@ -4,10 +4,11 @@
 
 
 <br>
-<div align="center">
-## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## ✨ Tecnologias
+<div align="center">
+<h1>Esse projeto foi desenvolvido com as seguintes tecnologias:</h1>
+  <br/><hr/>
   <div align="center" style="display:flex;">
   - [React](https://reactjs.org)
   - [TypeScript](https://www.typescriptlang.org/)
