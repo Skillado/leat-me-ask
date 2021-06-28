@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Letmeask" title="Letmeask" src="https://raw.githubusercontent.com/jessicaidro/letmeask/88e5db1476241d7c126920b64d27ea89fb8a0e2a/src/assets/images/logo.svg" />
+ <img alt="Letmeask" title="Letmeask"            src="https://raw.githubusercontent.com/jessicaidro/letmeask/88e5db1476241d7c126920b64d27ea89fb8a0e2a/src/assets/images/logo.svg" />
 </div>
 
 
@@ -11,6 +11,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+
+
+<div align="center">
+  <img alt="Letmeask" title="Letmeask" 
+  src="https://drive.google.com/file/d/11FV3PtqBiJd_55_WxJcWUwlGSBR0SCLc/view?usp=sharing" />
+</div>
 
 ## 🚀 Como executar
 
@@ -24,6 +30,6 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 Feito com ♥ by Rocketseat 👋🏻 
 
 
-## link do deploy da aplicação
+## Link do deploy da aplicação
 
 - https://leatmeask-53e97.web.app/
