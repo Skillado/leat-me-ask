@@ -12,10 +12,10 @@
 <br>
 
 ## ✨ Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [React](https://reactjs.org)
+<p align="center">
+ Esse projeto foi desenvolvido com as seguintes tecnologias:
+</p>
+- React(https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
           
 <div align="center">
