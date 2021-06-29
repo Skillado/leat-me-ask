@@ -15,8 +15,8 @@
 <p align="center">
  Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
-- React(https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
+- <a href="https://reactjs.org">React</a>
+- <a href="https://www.typescriptlang.org/">TypeScript</a>
           
 <div align="center">
   <img title="Letmeask" 
