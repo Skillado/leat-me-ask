@@ -15,20 +15,21 @@
 <p align="center">
  Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
+<div align="center">
   <a href="https://reactjs.org">React</a>
 | <a href="https://www.typescriptlang.org/">TypeScript</a>
-          
+</div>
 <div align="center">
   <img title="Letmeask" 
   src="https://i.ibb.co/J5QDKFB/Repository-Banner-leat-me-ask.jpg" alt="Repository-Banner-leat-me-ask" />
 </div>
-<div align="center">
+
 ## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn start`
-</div>
+
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador localmente.
 
 
