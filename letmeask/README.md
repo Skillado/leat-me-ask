@@ -4,10 +4,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-diagrama">Diagrama</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+ <a href="#-projeto">Projeto em Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -36,6 +34,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 Feito com ♥ by Rocketseat 👋🏻 
 
 
-## Link do deploy da aplicação
+## 🖥 Projeto 
+Link do deploy da aplicação
 
 - https://leatmeask-53e97.web.app/
