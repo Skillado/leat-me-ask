@@ -8,7 +8,8 @@
  <a href="#-projeto">Projeto em Deploy</a>&nbsp;&nbsp;&nbsp;
 <br>
 
-<h3 id="-tecnologias">✨ Tecnologias</h3>
+<h3 align="center" id="-tecnologias">✨ Tecnologias</h3>
+<hr/>
 <p align="center">
  Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
